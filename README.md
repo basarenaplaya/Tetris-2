@@ -64,8 +64,8 @@ I extracted some audio effects from the original video and integrated them into 
 
 ## Progressive Web App
 
-The [play page](https://ytiurin.github.io/tetris/) is served as a [PWA](https://developers.google.com/web/progressive-web-apps/), so you can play the game offline.
+The can be is served as a [PWA](https://developers.google.com/web/progressive-web-apps/), so you can play the game offline.
 
 ## Leaderboard
 
-I also made a simple microservice to store best scores of the [play page](https://ytiurin.github.io/tetris/).
+I also made a simple microservice to store best scores of the page.
